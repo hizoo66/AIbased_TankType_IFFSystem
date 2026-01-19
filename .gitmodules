@@ -1,0 +1,6 @@
+[submodule "Tank-Model-Classification"]
+	path = Tank-Model-Classification
+	url = https://github.com/hizoo66/Tank-Model-Classification
+[submodule "Tank-Type-Classification"]
+	path = Tank-Type-Classification
+	url = https://github.com/hizoo66/Tank-Type-Classification
